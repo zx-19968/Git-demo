@@ -2,6 +2,8 @@ hot-fix branch first modified
 
 master branch merge conflict test
 
+hot-fix branch merge conflict test
+
 git git git
 git git git
 git git git
